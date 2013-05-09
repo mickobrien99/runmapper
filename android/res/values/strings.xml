@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Run Mapper</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_my_run_details">MyRunDetailsActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="view_option">View</string>
+    <string name="delete_option">Delete</string>
+</resources>
